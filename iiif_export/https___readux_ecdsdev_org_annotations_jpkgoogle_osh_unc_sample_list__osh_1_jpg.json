@@ -1,0 +1,357 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.ecdsdev.org/annotations/jpkgoogle/osh-unc-sample/list/_osh-1.jpg",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "edba3332-622d-4e34-ae2f-c5ab2bbb6301",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>The editors&rsquo; suspicion of swirling vocal movements may represent a distancing of <em>Original Sacred Harp</em> from black music making. Musicologist Gage Averill describes \"snaking\" as the practice of \"moving from one chord to another by changing one or more non-melody notes&rdquo; sometimes associated with early black quartet singing. The characterization &ldquo;rills and frills\" gives the impression that the <em>Original Sacred Harp</em> editors regarded such vocal moves as frivolous in addition to \"unnatural.\"</p>\n<p><strong>References</strong></p>\n<p>Gage Averill, <em>Four Parts, No Waiting: A Social History of American Barbershop Harmony</em> (Oxford, UK: Oxford University Press, 2003), 33.</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-1.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=651,834,563,25",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='7c572c4d-d452-470e-9f7c-691dbbfb91a7']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='b0609a9e-0508-4991-a01b-881803654f8c']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 5
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-edba3332-622d-4e34-ae2f-c5ab2bbb6301 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "de922ebc-2029-425f-ba32-427768c7be54",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>The word \"standard\" conveyed durability and quintessence for <em>Original Sacred Harp</em>'s editors. Rather than characterizing the ordinary or mundane, the book's editors understood this quality as a marketable feature, hailing the tunebook&rsquo;s inclusion of \"STANDARD MELODIES\" on the book's <a href=\"../../Origin-1911-a/page/Origin-1911-a_Origin-1911-a-0001.jpg\" target=\"_blank\" rel=\"noopener\">front cover</a>.</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-1.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=177,533,342,27",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='5a0fa3f1-cce2-4d86-9d1b-c82c05d1d2ac']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='15c7dedb-a586-4b0e-8fd3-e810d118374d']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 8
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-de922ebc-2029-425f-ba32-427768c7be54 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "4b10a75b-b38c-4a6b-851d-628494b20d38",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>The authors of <em>Original Sacred Harp</em>'s preface repeatedly emphasize their affiliation with the southern United States and position the South as deserving of recognition. The authors specifically venerate music that touches the &ldquo;mind, heart, conscience, and religious feeling,&rdquo; and associate the South with such affective sacred music.</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-1.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=113,607,128,27",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='d6f6d814-57de-49e8-9a19-e2e703ff9c66']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='50229c94-b6d8-4107-8fb8-518386e89e6c']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-4b10a75b-b38c-4a6b-851d-628494b20d38 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "26b37073-0218-4154-9e6a-15aa7418db56",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>It is not possible to definitively determine who among the committee tasked with revising The Sacred Harp contributed to this \"Preface.\" The preface's writing style resembles James's, but it is noteworthy that the attribution diverges from that for the \"Introductory\" section, where James is credited as sole author.</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-1.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1137,946,154,19",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='16a258fa-bcb3-47c4-954b-19b2ae075177']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='437351f0-821a-4977-b0ce-31a50f7bf3d6']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 7
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-26b37073-0218-4154-9e6a-15aa7418db56 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "1dc17604-5707-4be8-9d63-9095471f5f18",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>The writers point to <em>Original Sacred Harp</em>&rsquo;s notation system and use of \"dispersed harmony\" in differentiating the book&rsquo;s &ldquo;standard living hymns&rdquo; from developments of &ldquo;the last decade.&rdquo; In a 1920 pamphlet, J. S. James defined &ldquo;dispersed harmony&rdquo; as the sounds produced when &ldquo;the notes forming the various chords [are] separated from each other by wide intervals.&rdquo; These harmonic features distinguish <em>Original Sacred Harp</em> from both the contemporaneous sacred and secular music the preface denigrates, and also from much of the &ldquo;close harmony&rdquo; reformed hymnody and early gospel music published during the second half of the nineteenth century&mdash;music that James included in his <em>Union Harp and History of Songs</em> (1909) but largely excluded from <em>Original Sacred Harp</em>.</p>\n<p><strong>References</strong></p>\n<p>J. S. James, <em>An Explanation of the Sacred Harp Printed and Published by B. F. White and E. J. King in 1844</em> (Atlanta: Gordon W. Donaldson, 1920), 10&ndash;11.</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-1.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=109,837,82,27",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='1403440a-b8fe-4078-acab-29d2856feecd']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='4570b427-5c83-4dfb-b424-07d32e8d8dd4']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 7
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-1dc17604-5707-4be8-9d63-9095471f5f18 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8ceead77-a437-44a5-8d67-72341eb7b2fd",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>The authors of Original Sacred Harp&rsquo;s preface contrast the book&rsquo;s &ldquo;sacred tunes&rdquo; with other music genres, revealing anxieties about the New South&rsquo;s racial and cultural politics. In rejecting \"secular\" music, the authors emphasized the tunebook&rsquo;s religious purposes, contrasting its repertoire with contemporaneous secular music. In dismissing &ldquo;operatic&rdquo; sounds, the Original Sacred Harp editors distanced the tunebook from the performative singing styles popular in elite urban churches that were influenced by the annual Atlanta performances of the New York Metropolitan Opera. By distinguishing the book&rsquo;s music from \"rag-time,\" a term connoting the syncopated dance music of African Americans, as well as the ostensibly similar rhythms of contemporaneous white gospel music, the editors distanced themselves and <em>Original Sacred Harp</em>&rsquo;s music from both black cultural affiliation. Like rag-time, \"jig\" may have connoted a frivolity incompatible with the editors&rsquo; desired religious fervor, while carrying similar associations with blackness and immigrant populations not yet recognized as white.</p>\n<p><strong>References</strong></p>\n<p>Duncan Vinson, &ldquo;&lsquo;As Far from Secular, Operatic, Rag-Time, and Jig Melodies as Is Possible&rsquo;: Religion and the Resurgence of Interest in the <em>Sacred Harp</em>, 1895&ndash;1911,&rdquo; <em>Journal of American Folklore</em> 119, no. 474 (October 1, 2006): 413&ndash;43; Gavin James Campbell, <em>Music and the Making of a New South</em> (Chapel Hill: University of North Carolina Press, 2004), 14&ndash;65.</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-1.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=680,758,329,29",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='6fc48fab-42fb-4048-a0e1-ec065d1ffb3c']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='5929add7-4b77-4e1a-9754-0e5320e12816']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 3
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-8ceead77-a437-44a5-8d67-72341eb7b2fd { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "3ba00885-146a-4b8f-afcb-68c033edaf84",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>In contrast to the <em>Original Sacred Harp</em> editors&rsquo; preferred musically conservative style, early twentieth-century sacred vocal music was embracing striking new harmonies produced by chromatic motion and consecutive dominant seventh chords following circle-of-fifths progressions. With roots in black quartet singing, blackface minstrelsy, and European tonal harmony, these sounds contributed to secular genres such as ragtime and barbershop, later emerging in gospel music and hymn arrangements. <em>Original Sacred Harp</em>&rsquo;s editors sought to champion an alternative modernity, distinct from such recent innovations in sacred song.</p>\n<p><strong>References</strong></p>\n<p>Gage Averill, <em>Four Parts, No Waiting: A Social History of American Barbershop Harmony</em> (Oxford, UK: Oxford University Press, 2003), 179&ndash;80; Duncan Vinson, &ldquo;&lsquo;As Far from Secular, Operatic, Rag-Time, and Jig Melodies as Is Possible&rsquo;: Religion and the Resurgence of Interest in the <em>Sacred Harp</em>, 1895&ndash;1911,&rdquo; <em>Journal of American Folklore</em> 119, no. 474 (October 1, 2006): 424&ndash;26.</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-1.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=347,869,164,27",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='26603cfb-9e11-4c61-bc2a-14c59e4d04e9']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='3e669c8f-b135-4e46-a2e1-5c32e5fe1ea1']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 6
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-3ba00885-146a-4b8f-afcb-68c033edaf84 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        }
+    ]
+}

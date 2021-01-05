@@ -1,0 +1,307 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.ecdsdev.org/annotations/jpkgoogle/osh-unc-sample/list/_osh-2.jpg",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a0ac99be-1e3c-4722-8150-9bba9c0b5376",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>James adopts a moderate if haphazard approach to the evolving spellings of shape-note syllables at the time. Here, he retains the spelling of &ldquo;Faw\" from <em>The Sacred Harp</em>&rsquo;s nineteenth-century rudiments even though he spells the note &ldquo;Fa&rdquo; in the seven-note scale on this page and in the four-note scales on pages 2 and 3 of the <em>Original Sacred Harp</em> rudiments {related pages: pp. 2 and 3}. In contrast, James employs the conventional spellings of &ldquo;La&rdquo; and &ldquo;Mi&rdquo; here for both the four- and seven-note scales, departing from both previous rudiments and his own diagram on page 3 that adopts the spellings &ldquo;Law&rdquo; and &ldquo;Me&rdquo; to correspond with the notes&rsquo; pronunciation.</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-2.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=509,701,217,21",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='6236a011-de18-4654-bc0b-39a3fc45c12c']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='c6a5d187-1eb0-4a66-8860-5ce427930bf3']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-a0ac99be-1e3c-4722-8150-9bba9c0b5376 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "3a308eea-0275-4f7d-a50b-c58ce014875e",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>This information on rests and their durations appears abruptly between two sections otherwise describing different notation systems. This unusual placement illustrates the haphazard organization of the rudiments that impedes J. S. James&rsquo;s effort to present <em>Original Sacred Harp</em> as &ldquo;materially modern.&rdquo;</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-2.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=189,259,207,20",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='f80b9e96-21a5-482a-8363-e400f8654794']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='bb02b549-b546-4e45-bb0d-051c009eaeb1']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-3a308eea-0275-4f7d-a50b-c58ce014875e { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a16d7e01-5843-4275-80b6-d7af6788e774",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>Lesson 1 draws on the science of acoustics to situate music as a type of sound. Answering the question, &ldquo;What is sound?&rdquo; James alludes to a similar section of <em>The Sacred Harp</em> rudiments titled &ldquo;Of Music.&rdquo; The shift from &ldquo;music&rdquo; to &ldquo;sound&rdquo; aligns with both the contemporaneous interest in scientific methods and James&rsquo;s investment in signaling the tunebook&rsquo;s modernity wherever possible.</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-2.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=865,223,121,17",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='05e263e8-f8ae-40a0-90d7-88c661314945']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='b6c5066d-02ac-43ec-8f5e-b2ed6313b7f7']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-a16d7e01-5843-4275-80b6-d7af6788e774 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "1b8a71d9-d328-4d59-b41d-a31bfabe8590",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>Louis Charles Elson&rsquo;s <em>Elson's Music Dictionary</em> (1905) and J. A. Fuller Maitland and George Grove&rsquo;s <em>A Dictionary of Music and Musicians</em> (1904&ndash;10) were the reference works of record for early twentieth-century scholars and practitioners. In naming these texts, James associates <em>Original Sacred Harp</em> with a scholarly framework absent from the nineteenth-century <em>Sacred Harp</em> (1844&ndash;70) rudiments, which relied largely on other tunebook sources. Replacing these historical sources with James viewed as authoritative substitutes tied the <em>Original Sacred Harp</em> and its singers to the urban centers of European and American music from which <em>Elson's</em> and Grove's emerged.</p>\n<p><strong>References</strong></p>\n<p>Louis Charles Elson, <em>Elson&rsquo;s Music Dictionary</em> (Boston: Oliver Ditson, 1905); George Grove and J. A. Fuller-Maitland, <em>A Dictionary of Music and Musicians</em> (New York: Macmillan, 1910).</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-2.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=813,1021,245,20",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='5562669f-3c6a-4272-818b-74603ee93b92']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='5309d216-ca22-4e11-a87b-db23fe118c65']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-1b8a71d9-d328-4d59-b41d-a31bfabe8590 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "05d722b4-9e88-4498-afe1-3bdb27a8dea5",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>Six pages into his rudiments, J. S. James begins a numbered series of lessons, a feature he transferred from his <em>Union Harp and History of Songs</em> (1909). Although unorthodox in their placement midway through the pedagogical text, the lessons nonetheless point to a thoughtful design featuring numbered sequences of questions and answers that would be useful in a variety of teaching contexts. Many of these questions and answers are drawn without attribution from music dictionaries and encyclopedias, pedagogical texts, and essays on music appreciation. The variety of sources marks a departure from the rudiments in <em>The Sacred Harp</em>&rsquo;s nineteenth-century editions (1844&ndash;70), which drew principally on the pedagogical sections of earlier tunebooks. In both structure and sources, these ten lessons point to James&rsquo;s effort to &ldquo;get at all material modern improvement.&rdquo;</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-2.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1082,166,94,17",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='60924280-abb6-4a91-84d3-5970e833ac09']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='93813553-3c37-47c4-a8c4-66e5ffdba784']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-05d722b4-9e88-4498-afe1-3bdb27a8dea5 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "24103c3e-e0ef-4893-a95e-44d8c3403f6c",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>As practicing lawyer and former judge of the North Georgia inferior court, J. S. James was well-positioned to investigate the copyright status of Jesse B. Aikin's seven-note system. Despite James&rsquo;s claim to the contrary, historical evidence suggests that Aikin did indeed obtain a patent for his system, leading other nineteenth-century tunebook compilers to devise their own seven-shape systems that would not infringe on his copyright.</p>\n<p><strong>References</strong></p>\n<p>Paul G. Hammond, \"Jesse B. Aikin and <em>The Christian Minstrel</em>\" <em>American Music</em> 3, no. 4 (Winter, 1985): 442&ndash;51.</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-2.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=159,952,346,22",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='5b6d9d16-c40d-476e-8781-d6080abb2ed5']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='f771b854-3ce8-4583-8e30-c08509ccdfdb']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-24103c3e-e0ef-4893-a95e-44d8c3403f6c { background: rgba(0, 191, 255, 0.5); }"
+            }
+        }
+    ]
+}

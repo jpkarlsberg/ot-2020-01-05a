@@ -1,0 +1,207 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.ecdsdev.org/annotations/jpkgoogle/osh-unc-sample/list/_osh-3.jpg",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "e4edb080-aa4c-434d-94e1-0b8fb88fb9e0",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>Among his associates, J. S. James was not known as a composer. With the exception of &ldquo;The Lamb of God,&rdquo; a short anthem credited exclusively to James in Union Harp and History of Songs, the compiler was more typically cited as a collaborator alongside a more established composer.&nbsp;</p>\n<p>&nbsp;</p>\n<p>References</p>\n<p>David Warren Steel, The Makers of the Sacred Harp (Urbana: University of Illinois Press, 2010), 127.</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-3.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1121,265,137,20",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='e08f79d0-fd98-49ff-a88f-c97b64d0c155']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 3
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='c28ef7aa-9fb0-490e-9820-129c9f37a402']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 5
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-e4edb080-aa4c-434d-94e1-0b8fb88fb9e0 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "c4221bae-1d78-4c17-b33c-43cc7ffb89d8",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>Responsorial effects such as this textual echo are hallmarks of gospel music that J. S. James largely excluded from <em>Original Sacred Harp</em>. &ldquo;The Great Roll-Call&rdquo; features a continuously responsorial texture wherein the inner voice parts (alto and tenor) lead and then hold while the outer parts (bass and treble) catch up, before briefly sharing the same rhythm.</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-3.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=438,336,212,22",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='05e2fc47-cab7-43ae-9684-3293426ef5fa']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 7
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='e4048185-eb94-4887-a30a-dfb62b4814b8']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 0
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-c4221bae-1d78-4c17-b33c-43cc7ffb89d8 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f6d37aac-a9a1-446b-9be6-6b08ef435ac0",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>Musical editor S. M. Denson, credited here as lead writer of &ldquo;The Great Roll-Call,&rdquo; wrote six gospel songs that appeared in J. S. James&rsquo;s books. Although five of these gospel songs appeared in James&rsquo;s <em>Union Harp and History of Songs</em> (1909), for which Denson also served as musical editor, only this one appears in <em>Original Sacred Harp</em>. This editorial choice underscores James&rsquo;s commitment to <em>Original Sacred Harp</em>&rsquo;s musical conservatism and his relatively permissive approach to <em>Union Harp</em>.</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-3.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=904,261,44,19",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='cdf3833a-fa30-4bc1-8ba1-5544c7c71d5f']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='3f854f17-5b3e-4f56-bcf5-04ec6391d6ce']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f6d37aac-a9a1-446b-9be6-6b08ef435ac0 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "1717bbdb-4312-4482-8981-de7455a8dd8a",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>&ldquo;The Great Roll-Call&rdquo; was first published in J. S. James&rsquo;s <em>Union Harp and History of Songs</em> (1909). As a gospel-style composition, the song stands out among the more musically conservative <em>Original Sacred Harp</em>. The song&rsquo;s placement in the rudiments represents a departure from its original location in the body of James&rsquo;s <em>Union Harp</em>, perhaps in tacit acknowledgment of its stylistic exceptionality.</p>\n<p>When laying out &ldquo;The Great Roll-Call&rdquo; for <em>Original Sacred Harp</em>, James reused the song&rsquo;s original electrotyped plates, as evidenced by the score&rsquo;s compactness, designed to fit the <em>Union Harp</em>&rsquo;s shorter page height, and evidence of a previous page number (top left). The tunebook&rsquo;s printers modified the plates to add this title text, as well as a new page number in different typeface.</p>\n<p><strong>References</strong></p>\n<p>J. S. James, ed., <em>Union Harp and History of Songs</em> (Douglasville, GA, 1909), 210&ndash;1.</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-3.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=555,172,170,24",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='d9baa4e9-25e6-44b0-b3d7-7e4eb0a377f6']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='9c4e3903-5a2c-43ba-845d-964f1c2672ad']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 9
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-1717bbdb-4312-4482-8981-de7455a8dd8a { background: rgba(0, 191, 255, 0.5); }"
+            }
+        }
+    ]
+}

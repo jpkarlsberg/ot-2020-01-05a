@@ -1,0 +1,177 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.ecdsdev.org/annotations/jpkgoogle/osh-unc-sample/list/_osh-5.jpg",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "77b9c0ca-f807-40ac-b97e-9f9f74732e41",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>J. S. James carried over this 2sol note from nineteenth-century editions of <em>The Sacred Harp</em> (1844&ndash;70). Making an awkward leap from its preceding tone and forming a discordant interval with the other three parts, the retention of this error demonstrates the extent to which <em>Original Sacred Harp</em> editors avoided altering their source material, even when it was visibly incorrect. This reticence might be attributed to a hasty editorial process, but was also in alignment with the editors&rsquo; musical conservatism. The note was later corrected to the 5sol by editors of the 1966 edition of <em>Original Sacred Harp</em>.</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-5.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=403,303,30,50",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M403.46114,302.88428h15.01123v0h15.01123v25.09931v25.09931h-15.01123h-15.01123v-25.09931z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_279e3832-81b3-4e77-b68a-7747d51526da\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"7.47265\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=403,303,30,50"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "3f35e0ec-7e11-4665-be73-f1ba0ec01a98",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>J. S. James&rsquo;s biographies of Thomas Ken and Guillaume Franc narratively connect <em>Original Sacred Harp</em> to renowned European figures and places. James paints a compelling picture of the hymn writers and religious leaders of &ldquo;Christendom,&rdquo; but the devil lies in his incorrect details. Although Ken wrote the text most frequently paired with this tune&mdash;&ldquo;Praise God from whom all blessings flow&rdquo;&mdash;that lyric does not appear here. &ldquo;Old Hundred&rdquo; was itself added to the Genevan Psalter in 1551 after the period during which Guillaume Franc was contributing to it. Yet biographies of these figures advance James&rsquo;s effort to elevate the status of Sacred Harp singing by associating the tunebook with these leading European and Christian figures.&nbsp;</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-5.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=842,609,335,23",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='b07e2027-3623-42a2-82dc-34f42926b907']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='df49bf27-b374-46ad-9769-192cae63db59']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 5
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-3f35e0ec-7e11-4665-be73-f1ba0ec01a98 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "40fb573a-8a09-48b9-9ce4-dad3ba205ac0",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p><em>Sacred Harp</em> compiler B. F. White included &ldquo;Mear&rdquo; in the 1844 first edition of <em>The Sacred Harp</em> and made no changes to the song in subsequent editions. J. S. James&rsquo;s inaccurate statement to the contrary is remarkably specific, consistent with attributions elsewhere in <em>Original Sacred Harp</em> where James arbitrarily selected a date of composition a couple of years off from the publication date of an edition of <em>The Sacred Harp</em>. James&rsquo;s claim here may represent an attempt to exaggerate White&rsquo;s role in shaping the tunebook&rsquo;s contents and it contributes to James&rsquo;s goal of binding White and the tunebook more closely to the distant and prestigious people, places, and times associated with &ldquo;Mear.&rdquo;</p>\n<p><strong>References</strong></p>\n<p>W. M. Cooper, ed., <em>The Sacred Harp</em> (Dothan, AL: W. M. Cooper, 1902), 49; William Walker, ed., <em>The Christian Harmony</em> (Philadelphia: E. W. Miller Co., 1873), 59.</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-5.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=582,1073,569,28",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='2f21292f-53d5-490f-9cad-c312230bb22f']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='939ba1d0-8ae0-4d70-ba75-89355ff21716']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-40fb573a-8a09-48b9-9ce4-dad3ba205ac0 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "525ad585-9977-4a1a-b4fb-6525ca75bfb1",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>S. M. Denson arranged the alto line for &ldquo;Mear&rdquo; by stitching together components of William Walker&rsquo;s alto part (printed in the 1867 <em>Christian Harmony</em>) and that of B. P. Poyner (included in W. M. Cooper&rsquo;s 1902 <em>Sacred Harp</em>). Every note in Denson&rsquo;s alto matches the corresponding note in one or both of these two sources. As illustrated in the diagram below, Denson mostly drew on Walker&rsquo;s alto for the first three phrases of the song, while selecting Poyner&rsquo;s alto for much of the song&rsquo;s final phrase. Denson&rsquo;s selections from each source indicate a preference for a lower range and for melodic movement over notes repeated on the same scale degree.</p>\n<p><img src=\"http://vault.silversand.org/readux/Mear_Alto_Test_3.jpg\" alt=\"Diagram demonstrating how Walker&rsquo;s and Poyner&rsquo;s altos inform Denson&rsquo;s.\" width=\"1440\" height=\"480\" /></p>\n<p><strong>References</strong></p>\n<p>W. M. Cooper, ed.,&nbsp;<em>The Sacred Harp</em>&nbsp;(Dothan, AL: W. M. Cooper, 1902), 49; William Walker, ed.,&nbsp;<em>The Christian Harmony</em>&nbsp;(Philadelphia: E. W. Miller Co., 1873), 59.</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-5.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=57,805,1285,63",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M57.1659,805.17118h642.4028v0h642.4028v31.51334v31.51334h-642.4028h-642.4028v-31.51334z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_01b1ffb2-715b-4f50-9a86-7f7ff0cc1062\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=57,805,1285,63"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

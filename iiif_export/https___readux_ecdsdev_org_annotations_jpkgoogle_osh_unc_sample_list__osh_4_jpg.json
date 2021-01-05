@@ -1,0 +1,192 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.ecdsdev.org/annotations/jpkgoogle/osh-unc-sample/list/_osh-4.jpg",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "d4af8cbf-788b-45d4-a7b6-7329089fddb6",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>This romantic account of F. F. Chopin&rsquo;s death became a favorite anecdote shared among Sacred Harp singers who encountered the tunebook during the second half of the twentieth century in choral or folk music settings. Newcomers&rsquo; amused responses to J. S. James's historical notes were perceived as condescending to some longtime singers and contributed to the decision to remove James&rsquo;s historical notes from <em>The Sacred Harp: 1991 Edition</em>.</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-4.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=86,1040,331,24",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='aec5de3b-5c99-47af-b88b-934f40a32626']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='a93483c7-ade8-47e5-b215-16ec0e6c55f7']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-d4af8cbf-788b-45d4-a7b6-7329089fddb6 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "09da662f-82b2-4e28-8a5f-be68c0b0f167",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>S. M. Denson borrowed heavily from available tunebooks to add alto parts to hundreds of formerly three-part songs. These &ldquo;new&rdquo; alto parts were J. S. James&rsquo;s major concession to modern musical conventions. Across <em>Original Sacred Harp</em>, Denson included alto parts copied verbatim from other sources, sometimes altering the part slightly. Denson also composed new alto parts and, on rare occasions, stitched together elements from multiple sources into alto lines credited to him.&nbsp;</p>\n<p>These two natural signs are Denson&rsquo;s only deviations from the alto part for &ldquo;Fairfield&rdquo; as printed in William Walker&rsquo;s <em>The Christian Harmony</em> (1873). Denson replaced the accidental sharp and natural sign printed in <em>The Christian Harmony</em> with two (redundant) natural signs. Aware of the sign&rsquo;s redundancy&mdash;the A minor key signature contains no sharps or flats for the natural sign to nullify&mdash;the editors of <em>Original Sacred Harp: Denson Revision</em> (1936) removed as much of the natural signs as possible from the original plates. The errors were removed completely when the tunebook was digitally retypeset for <em>The Sacred Harp: 1991 Edition</em>.</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-4.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=254,362,53,52",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M254.06261,413.84024h26.64162v0h26.64162v-25.75648v-25.75648h-26.64162h-26.64162v25.75648z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_687bc11a-ee92-4b98-8e5b-afe5a2eb0123\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=254,362,53,52"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "3cd07077-ba95-46f0-afe7-2ce8cc5ee114",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>Despite &ldquo;Tribulation&rdquo;&rsquo;s considerable stylistic remove from the music of nineteenth-century Polish composer Fr&eacute;d&eacute;ric Fran&ccedil;ois Chopin, the similarity between his surname and that of siblings Amzi and Lucius Chapin&mdash;musicians active in early nineteenth-century Virginia, North Carolina, and Kentucky&mdash;led J. S. James to misidentify the composer of this short tune. James&rsquo;s desire to connect <em>Original Sacred Harp</em> to &ldquo;great masters of music&rdquo; likely contributed to his misattribution.</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-4.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=120,1007,330,24",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='1774624d-8487-4c67-b1a7-5c7183eae135']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='c906f610-f574-44b4-b821-8f200c67da65']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 5
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-3cd07077-ba95-46f0-afe7-2ce8cc5ee114 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "bd74a861-be22-4786-9b87-46cfada4502e",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jesse P. Karlsberg"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>J. S. James retained this statement even after his discovery of an attribution to \"Hitchcock\" in an earlier source prompted the modification of this page's printing plate to include the new attribution in a later printing of <em>Original Sacred Harp</em>. The contradiction that resulted from this retention points to the hastiness of the tunebook&rsquo;s editorial process during its revision post-publication.</p>\n<p><img src=\"http://vault.silversand.org/readux/Fairfield-Later-Printing.png\" alt=\"&ldquo;Fairfield&rdquo; in a later printing of Original Sacred Harp with &ldquo;Hitchcock&rdquo; attribution.\" width=\"1017\" height=\"447\" /></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/canvas/_osh-4.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-unc-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=90,692,129,22",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='cabb3efc-4101-479a-b555-6253b958c7d2']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 1
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='47bb0da0-5bc5-4d01-8716-cd3cb09d2613']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 0
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-bd74a861-be22-4786-9b87-46cfada4502e { background: rgba(0, 191, 255, 0.5); }"
+            }
+        }
+    ]
+}
